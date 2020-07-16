@@ -1,4 +1,4 @@
-# Mimi Do assignment 1 part 1
+# Mimi Do
 import random
 import textwrap
 
